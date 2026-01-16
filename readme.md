@@ -49,6 +49,17 @@
 
 ---
 
+## For 23andMe & AncestryDNA Users
+
+> **35 million people** who have tested with 23andMe or AncestryDNA can download their genetic RAW data,
+> load it into Gemini 3 along with `ALPHAS_genetics.php`, and simply ask **"Analyze this"** to instantly discover:
+>
+> - **Drugs with dangerous side effects** for their specific genotype
+> - **Future disease risks** with evidence-based odds ratios
+> - **Constitutional health considerations** for personalized lifestyle choices
+
+---
+
 ## The ALPHAS METHOD
 
 ### Amplify LLM PHP Harmonized Acyclic Statelessness
